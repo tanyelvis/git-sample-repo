@@ -9,6 +9,16 @@ git commit -m
 git log
 git dif <filename>
 
+branch1:
+git status ...> prints the status of the git repository
+git init ...> initializes the Git Repository
+git config ...> global user.name "ABCD" ...> specify username
+git config ...> global user.email "xxxxx"
+git config user.name "ABCD"
+git config user.email "xxxxx"
+git add
+git commit -m ""
+
 
 
 
